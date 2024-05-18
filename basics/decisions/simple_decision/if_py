@@ -1,0 +1,8 @@
+# Msg
+print("What type of books is this?")
+# If statement
+book = input()
+if book == "adventure":
+    print("I like reading adventure books")
+
+print("Finished reading book.")
